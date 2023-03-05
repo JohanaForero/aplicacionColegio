@@ -1,0 +1,9 @@
+[submodule "Usuario"]
+	path = Usuario
+	url = https://github.com/JohanaForero/aplicacionColegio.git
+[submodule "materias"]
+	path = materias
+	url = https://github.com/JohanaForero/aplicacionColegio.git
+[submodule "perfildelEstudiante"]
+	path = perfildelEstudiante
+	url = https://github.com/JohanaForero/aplicacionColegio.git
